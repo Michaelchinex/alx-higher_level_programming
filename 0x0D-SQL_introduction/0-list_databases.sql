@@ -1,3 +1,3 @@
--- a scripts that list all databases of MySQL
--- SQL projects
-mysql -u root -p password  -e "show databases;"
+-- a scripts that list all databases of mysql server
+-- a scripts that list all databases of mysql server
+SHOW DATABASE;
