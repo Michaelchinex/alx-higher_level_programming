@@ -1,3 +1,3 @@
--- a scripts that list all databases of MySQL
--- SQL projects
-SHOW DATABASE;
+-- lists all databases of MySQL server
+-- lists all databases of MySQL server
+SHOW DATABASES;
